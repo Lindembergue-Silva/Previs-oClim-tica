@@ -1,0 +1,82 @@
+*{
+	margin: 0;
+	padding:0;
+}
+body{
+	background: linear-gradient(90deg, rgb(2, 0, 36,1) 0%, rgb(255, 255, 255) 50%, rgb(4, 88, 105) 100%);
+}
+p{
+	font-size: 1.3em;
+	color: #FFFFFF;
+}
+
+
+header{
+	text-align:center;
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(2,38,38,1) 35%, rgb(1, 213, 255) 100%);
+	margin-top: 0;
+	padding: 1em;
+	border:1px solid #C9D1DA;
+	border-right: none;
+	border-left: none;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	}
+ 
+
+footer{
+	text-align:center;
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(2,38,38,1) 35%, rgb(3, 213, 255) 100%);
+	bottom: 0;
+	position: fixed;
+	width: 100%;
+	padding: 1em;
+	border:1px solid #C9D1DA;
+	border-right: none;
+	border-left: none;
+	color: #FFFFFF;
+	text-transform: uppercase;
+    
+}
+.img-fluid{
+	border-radius: 1em;
+}
+section{
+	margin: 0.5em;
+	padding: 1em;
+    margin-bottom: 50px;
+    
+}
+
+a{
+	color: white;
+	text-decoration: none;
+
+
+}
+a:hove{
+	color: #FBEC00;
+	
+
+
+}
+#decor{
+	text-decoration: none;
+}
+.mm{
+    color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.mm:hover{
+    font-size: 5em;
+    position: relative;
+}
+#trocaimg:hover{
+    opacity: 0.5;
+    
+}
+
+	
+
